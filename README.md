@@ -8,9 +8,7 @@ It was developed as part of the **Edunet Foundation Cybersecurity Internship**.
 ---
 
 ## 👩‍💻 Developed By
-**Bushra Shaikh**  
-B.Sc Computer Science  
-SRT University, Nanded
+**Bushra Shaikh** 
 
 ---
 
