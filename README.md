@@ -36,19 +36,12 @@ It was developed as part of the **Edunet Foundation Cybersecurity Internship**.
 ---
 
 ## 📁 Folder Structure
-├── steganography.py / encode_decode.py # Python logic
-├── steganography_notebook.ipynb # Jupyter Notebook version
+├── steganography.py / encode_decode.py 
+├── steganography_notebook.ipynb 
 ├── image for hide text.png # Original image
 ├── output.png # Encoded image
 ├── Steganography_Project_BushraShaikh.pptx # Project PPT
-└── README.md 
-
----
-
-## 🖼️ Screenshots
-| Original Image | Encoded Image | Decoded Output |
-|----------------|----------------|----------------|
-| ![original](./image%20for%20hide%20text.png) | ![encoded](./output.png) | Message: `This is Bushra’s steganography project` |
+└── README.md
 
 ---
 
@@ -57,11 +50,12 @@ It was developed as part of the **Edunet Foundation Cybersecurity Internship**.
 2. Install required libraries:
    ```bash
    pip install pillow numpy
+
 Run the encode_message() function with your message
 
 Use decode_message() to extract it back
 
-📚 References
+📚 **References**
 Python Official Docs – https://docs.python.org/3/
 
 Pillow (PIL) – https://pillow.readthedocs.io/
@@ -70,7 +64,7 @@ NumPy – https://numpy.org/
 
 Edunet Foundation Internship Resources
 
-💡 Future Scope
+**💡 Future Scope**
 Add encryption (e.g., AES) to the message
 
 Build GUI using Tkinter or a web interface
