@@ -24,7 +24,6 @@ It was developed as part of the **Edunet Foundation Cybersecurity Internship**.
 - Jupyter Notebook  
 - PIL (Pillow)  
 - NumPy  
-- ImageChops (for pixel difference detection)
 
 ---
 
@@ -41,13 +40,8 @@ It was developed as part of the **Edunet Foundation Cybersecurity Internship**.
 ├── steganography_notebook.ipynb # Jupyter Notebook version
 ├── image for hide text.png # Original image
 ├── output.png # Encoded image
-├── difference.png # Visual diff (optional)
 ├── Steganography_Project_BushraShaikh.pptx # Project PPT
-└── README.md # This file
-
-yaml
-Copy
-Edit
+└── README.md 
 
 ---
 
